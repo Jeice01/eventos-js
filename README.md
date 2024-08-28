@@ -96,5 +96,5 @@ valorSubtotal.innerText = subtotalInfo.valor.toFixed(2);
 ## Conclusão
 
 Este exemplo de carrinho de compras é uma ótima maneira de entender conceitos básicos de JavaScript, como objetos, funções, eventos, e manipulação de dados. Com isso, é possível construir interações dinâmicas e responsivas em páginas web.
-```
+
 
