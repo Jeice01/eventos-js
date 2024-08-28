@@ -1,5 +1,3 @@
-
-```markdown
 # Carrinho de Compras - README
 
 Este projeto consiste em um exemplo simples de um carrinho de compras desenvolvido em JavaScript. O objetivo é demonstrar o uso de eventos, funções, tipos de dados, manipulação de números e objetos em JavaScript.
